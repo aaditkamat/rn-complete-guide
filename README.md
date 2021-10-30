@@ -1,0 +1,2 @@
+# React Native Complete Guide
+This project contains source code files based on the [React Native - The Practical Guide (2021 Edition) Udemy course conducted by Maximillian Schwarzmuller from Academind](https://www.udemy.com/course/react-native-the-practical-guide/)
